@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navbarMonstera{
+    display: flex;
+    flex-direction: row;
+    width: 85vw;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 75px;
+}
+#home{
+    border-bottom: 2px solid black;
+}
+h4{
+    cursor: pointer;
+}
+.svg-img{
+    cursor: pointer;
+}
+#navMid{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#navMid > div{
+    margin-inline-start: 90px;
+}
+#navEnd{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#navEnd > div{
+    margin-inline-start: 20px;
+}
+#midWhole{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 85vw;
+    margin-left: 75px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+#midWholePart1{
+    display: flex;
+    width: 50%;
+    height: 100%;
+    margin-top: 40px;
+    flex-direction: column;
+}
+#mainImg{
+    display: flex;
+    width: 50%;
+    margin-top: 12px;
+    justify-content: flex-end;
+}
+#midWholePart13{
+    display: flex;
+    flex-direction: row;
+}
+.midWholePart13Parts{
+    display: flex;
+    flex-direction: row;
+}
+#monstera{
+    font-size: 100px;
+    font-family: 'Allerta';
+}
+#ptag{
+    font-size: 15px;
+}
+#midWholePart12{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 50px;
+}
+#midWholePart121{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgb(59, 115, 66);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 22px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+#midWholePart121:hover{
+    margin-right: 15px;
+    background-color: rgb(28, 100, 37);
+  
+}
+#midWholePart122{
+    display: flex;
+    align-items: center;
+}
+#btn-h1{
+    font-size: 25px;
+    color: #fff;
+    margin-right: 10px;
+}
+#midWholePart13{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    margin-top: 80px;
+}
+#midWholePart13Parts{
+    display: flex;
+    align-items: center;
+}
+#midWholePart13Parts > h4{
+    font-size: 15px;
+}
+.text{
+    font-size: 10px;
+}
