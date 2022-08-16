@@ -12,4 +12,4 @@ It took almost 2 hour to complete  this project.
 **Note-**  This landing page is not mobile friendly.
 
 ![image](photos/Plant%20HomePage.png)
-[Live-Link]()
+[Live-Link](https://plant-home-page-vipransh.netlify.app/)
